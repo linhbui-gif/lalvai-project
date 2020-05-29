@@ -1,8 +1,6 @@
 import React from "react"
 import './lastest.scss'
 import Slider from "react-slick";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faPlus } from '@fortawesome/free-solid-svg-icons'
 export default function Lastest() {
   var settings = {
     dots: false,
@@ -50,7 +48,7 @@ export default function Lastest() {
         <Slider {...settings}>
           <li className="lastest__item ">
             <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
-              <div className="image__overlay dflex"><FontAwesomeIcon icon={faPlus}/></div>
+              <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
             <div className="item__content"><a className="heading">Vendor Management</a>
               <p className="port-info">Company Project</p>
@@ -58,7 +56,7 @@ export default function Lastest() {
           </li>
           <li className="lastest__item ">
             <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
-              <div className="image__overlay dflex"><FontAwesomeIcon icon={faPlus}/></div>
+              <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
             <div className="item__content"><a className="heading">Sales and Implementation</a>
               <p className="port-info">Client Project</p>
@@ -66,7 +64,7 @@ export default function Lastest() {
           </li>
           <li className="lastest__item ">
             <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
-              <div className="image__overlay dflex"><FontAwesomeIcon icon={faPlus}/></div>
+              <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
             <div className="item__content"><a className="heading">Performance Improvement</a>
               <p className="port-info">Product Promotion</p>
@@ -74,7 +72,7 @@ export default function Lastest() {
           </li>
           <li className="lastest__item ">
             <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
-              <div className="image__overlay dflex"><FontAwesomeIcon icon={faPlus}/></div>
+              <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
             <div className="item__content"><a className="heading">Sales and Implementation</a>
               <p className="port-info">Client Project</p>
@@ -82,7 +80,7 @@ export default function Lastest() {
           </li>
           <li className="lastest__item ">
             <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
-              <div className="image__overlay dflex"><FontAwesomeIcon icon={faPlus}/></div>
+              <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
             <div className="item__content"><a className="heading">Performance Improvement</a>
               <p className="port-info">Product Promotion</p>
@@ -90,7 +88,7 @@ export default function Lastest() {
           </li>
           <li className="lastest__item ">
             <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
-              <div className="image__overlay dflex"><FontAwesomeIcon icon={faPlus}/></div>
+              <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
             <div className="item__content"><a className="heading">Consulting Services</a>
               <p className="port-info">Video Making</p>
