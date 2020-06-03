@@ -12,10 +12,13 @@ import Pricing from "../components/pricing/pricing"
 import Feature from "../components/features/feature"
 import Blog from "../components/blog/blog"
 import GetTouch from "../components/getTouch/getTouch"
+import SEO from "../components/seo"
 
 export default function Home() {
   return (
-    <Layout>
+   
+        <Layout>
+        <SEO/>
         <Banner/>
         <Client/>
         <Work/>

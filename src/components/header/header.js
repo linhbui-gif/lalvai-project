@@ -7,12 +7,15 @@ export default function Header() {
   const [open,setOpen] = useState(false)
   useEffect(() => {
     const header = document.querySelector(".nav");
+    const onTop = document.querySelector(".onTop");
     const sticky = header.offsetTop;
     const scrollCallBack = window.addEventListener("scroll", () => {
       if (window.pageYOffset > sticky) {
         header.classList.add("fixed");
+        onTop.classList.add("show");
       } else {
         header.classList.remove("fixed");
+        onTop.classList.remove("show");
       }
     });
     return () => {
