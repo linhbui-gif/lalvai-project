@@ -25,8 +25,8 @@ export default function Header() {
   return (
     <div className="nav">
       <div className="nav__wrap container dflex">
-        <div className="nav__logo"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/logo.png" /></div>
-        <div className="nav__logos"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/logo-two.png"  className="logo-hidden" /></div>
+        <div className="nav__logo"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/logo.png" alt="test"/></div>
+        <div className="nav__logos"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/logo-two.png" alt="test"  className="logo-hidden" /></div>
         <ul className={`nav__menu dflex ${open && "open"}`}>
           <li className="nav__item"><a className="link" href="#">Home</a></li>
           <li className="nav__item"><a className="link" href="#client">About</a></li>

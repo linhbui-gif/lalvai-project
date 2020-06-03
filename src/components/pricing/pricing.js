@@ -16,7 +16,7 @@ export default function Pricing() {
             <li>15 Website</li>
             <li>50 GB Disk Space</li>
             <li>50 Email Accounts</li>
-          </ul><a className="btn" href="#">Get Start</a>
+          </ul><a className="btn" href="google.com">Get Start</a>
         </div>
         <div className="pricing__item col-2-5 wow" data-animate="fadeInUp">
           <h2>Popular</h2>
@@ -29,7 +29,7 @@ export default function Pricing() {
             <li>50 Email Accounts</li>
             <li>50GB Monthly Bandwidth</li>
             <li>10 Subdomains</li>
-          </ul><a className="btn" href="#">Get Start</a>
+          </ul><a className="btn" href="google.com">Get Start</a>
         </div>
         <div className="pricing__item green col-2-5 wow" data-animate="fadeInUp">
           <h2>Advance</h2>
@@ -44,7 +44,7 @@ export default function Pricing() {
             <li>10 Subdomains</li>
             <li>15 Domains</li>
             <li>Unlimited Support</li>
-          </ul><a className="btn" href="#">Get Start</a>
+          </ul><a className="btn" href="google.com">Get Start</a>
         </div>
       </div>
     </div>

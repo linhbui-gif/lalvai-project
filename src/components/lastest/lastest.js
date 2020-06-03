@@ -47,50 +47,50 @@ export default function Lastest() {
         <ul className="lastest__content wow" id="wrap" data-animate="fadeInUp">
         <Slider {...settings}>
           <li className="lastest__item ">
-            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
+            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt="test"/>
               <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
-            <div className="item__content"><a className="heading">Vendor Management</a>
+            <div className="item__content"><a className="heading" href="google.com">Vendor Management</a>
               <p className="port-info">Company Project</p>
             </div>
           </li>
           <li className="lastest__item ">
-            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
+            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt="test"/>
               <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
-            <div className="item__content"><a className="heading">Sales and Implementation</a>
+            <div className="item__content"><a className="heading" href="google.com">Sales and Implementation</a>
               <p className="port-info">Client Project</p>
             </div>
           </li>
           <li className="lastest__item ">
-            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
+            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt="test"/>
               <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
-            <div className="item__content"><a className="heading">Performance Improvement</a>
+            <div className="item__content"><a className="heading" href="google.com">Performance Improvement</a>
               <p className="port-info">Product Promotion</p>
             </div>
           </li>
           <li className="lastest__item ">
-            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
+            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt="test"/>
               <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
-            <div className="item__content"><a className="heading">Sales and Implementation</a>
+            <div className="item__content"><a className="heading" href="google.com">Sales and Implementation</a>
               <p className="port-info">Client Project</p>
             </div>
           </li>
           <li className="lastest__item ">
-            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
+            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt="test"/>
               <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
-            <div className="item__content"><a className="heading">Performance Improvement</a>
+            <div className="item__content"><a className="heading" href="google.com">Performance Improvement</a>
               <p className="port-info">Product Promotion</p>
             </div>
           </li>
           <li className="lastest__item ">
-            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt=""/>
+            <div className="lastest__image"><img src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/portfolio/1.jpg" alt="test"/>
               <div className="image__overlay dflex"><i className="fas fa-plus"></i></div>
             </div>
-            <div className="item__content"><a className="heading">Consulting Services</a>
+            <div className="item__content"><a className="heading" href="google.com">Consulting Services</a>
               <p className="port-info">Video Making</p>
             </div>
           </li>

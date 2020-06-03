@@ -21,7 +21,7 @@ export default function Team() {
                 <div class="info col-lg-3 col-md-4 col-12">
                   <img
                     src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/testimonial/img-1.jpg"
-                    alt=""
+                    alt="test"
                   />
                   <h3 class="name">Syed Ekram</h3>
                   <span>SEO Specialist</span>
@@ -43,7 +43,7 @@ export default function Team() {
                 <div class="info col-lg-3 col-md-4 col-12">
                   <img
                     src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/testimonial/img-1.jpg"
-                    alt=""
+                    alt="test"
                   />
                   <h3 class="name">Masum Billah</h3>
                   <span>Marketing Specialist</span>
@@ -65,7 +65,7 @@ export default function Team() {
                 <div class="info col-lg-3 col-md-4 col-12">
                   <img
                     src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/testimonial/img-1.jpg"
-                    alt=""
+                    alt="test"
                   />
                   <h3 class="name">Sefat Ullah</h3>
                   <span>Manager</span>
@@ -87,7 +87,7 @@ export default function Team() {
                 <div class="info col-lg-3 col-md-4 col-12">
                   <img
                     src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/testimonial/img-1.jpg"
-                    alt=""
+                    alt="test"
                   />
                   <h3 class="name">Kazi Luna</h3>
                   <span>Support Specialist</span>

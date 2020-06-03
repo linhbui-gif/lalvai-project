@@ -39,15 +39,15 @@ export default function Footer() {
         </div>
         <div className="footer__item col-lg-3 col-md-6 col-12">
           <h4 className="heading">Subscribe Today</h4>
-          <form className="dflex" action="#">
+          <form className="dflex" action="google.com">
             <input type="text" placeholder="Enter Email"/><FontAwesomeIcon icon={faPaperPlane}/>
           </form>
-          <div className="footer__social dflex"><a href="#"><i className="fab fa-facebook-f"></i></a><a href="#"><i className="fab fa-twitter"></i></a><a href="#"><i className="fab fa-instagram"></i></a><a href="#"><i className="fab fa-linkedin-in"></i></a><a href="#"><i className="fab fa-youtube"></i></a></div>
+          <div className="footer__social dflex"><a href="google.com"><i className="fab fa-facebook-f"></i></a><a href="google.com"><i className="fab fa-twitter"></i></a><a href="google.com"><i className="fab fa-instagram"></i></a><a href="google.com"><i className="fab fa-linkedin-in"></i></a><a href="google.com"><i className="fab fa-youtube"></i></a></div>
         </div>
       </div>
     </div>
     <div className="footer__bottom dflex container">
-      <p className="des">Copyright © 2019 Lalvai. Developed by <strong><a href="#">themes_master</a></strong></p>
+      <p className="des">Copyright © 2019 Lalvai. Developed by <strong><a href="google.com">themes_master</a></strong></p>
     </div>
     </>
   )

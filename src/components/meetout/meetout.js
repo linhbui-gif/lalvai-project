@@ -1,11 +1,5 @@
 import React from "react"
 import "./meetout.scss"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import {
-  faPlus,
-  faFacebook,
-  faTwitter,
-} from "@fortawesome/free-solid-svg-icons"
 export default function Meetout() {
   return (
     <div className="person" id="meet">
@@ -21,31 +15,31 @@ export default function Meetout() {
             <div className="person__image">
               <img
                 src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/team/img-1.jpg"
-                alt=""
+                alt="test"
               />
               <ul>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-facebook-f"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-google-plus-g"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-youtube"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fas fa-plus"></i>
                   </a>
                 </li>
@@ -60,31 +54,31 @@ export default function Meetout() {
             <div className="person__image">
               <img
                 src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/team/img-1.jpg"
-                alt=""
+                alt="test"
               />
               <ul>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-facebook-f"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-google-plus-g"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-youtube"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fas fa-plus"></i>
                   </a>
                 </li>
@@ -99,31 +93,31 @@ export default function Meetout() {
             <div className="person__image">
               <img
                 src="http://cheaphostings.org/html/item-lalvai/lalvai/assets/img/team/img-1.jpg"
-                alt=""
+                alt="test"
               />
               <ul>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-facebook-f"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-google-plus-g"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fab fa-youtube"></i>
                   </a>
                 </li>
                 <li className="icon dflex">
-                  <a href="#">
+                  <a href="google.com">
                     <i className="fas fa-plus"></i>
                   </a>
                 </li>
